@@ -1,4 +1,6 @@
 #solarreader_img
+
+
 Meine erstes offizielles solarreader.img 
 
 lauffähig ab Raspberry Pi2B+  , auch Grafana, dort mit USB-Wlan-Adapter oder LAN, 
